@@ -13,7 +13,7 @@ let mainConfig = {
   repoConfig: {
     owner: "Yidadaa",
     repo: "Issue-Blog-With-Github-Action",
-    pushBranch: "master",
+    pushBranch: "source",
     email: "yidadaa@qq.com",
     filterUsers: ['Yidadaa']
   },
